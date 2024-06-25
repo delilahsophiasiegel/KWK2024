@@ -12,7 +12,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             
-            Text("Match the cards!")
+            Text("Match the cards!!")
                 .font(.title2)
                 .bold()
             
